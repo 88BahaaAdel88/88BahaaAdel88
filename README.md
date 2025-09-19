@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-TryHackMe Profile
-"https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3484878"
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/b4haa7.png)](https://tryhackme.com/p/b4haa7)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/B4HAA7.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/B4HAA7)
+
 
 
 <!--
