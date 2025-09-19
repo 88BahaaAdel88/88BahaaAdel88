@@ -6,7 +6,7 @@ Currently exploring **SOC analysis** and **Blue Teaming**, while also practicing
 ---
 
 ## 📊 GitHub Stats
-![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=88BahaaAdel88&show_icons=true&theme=radical)
 
 ---
 
