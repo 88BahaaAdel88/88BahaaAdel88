@@ -29,7 +29,7 @@ Hi — I’m **G**. I study and practice defensive security (SOC analysis / Blue
 
 ---
 
-## 🛠 Tools & Tech I Use (Blue Team / SOC) — Text-only badges
+## 🛠 Tools, Programming Languages & Tech I Use (Blue Team / SOC)
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=portswigger&logoColor=white)
@@ -41,17 +41,9 @@ Hi — I’m **G**. I study and practice defensive security (SOC analysis / Blue
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 ---
-
-## 💻 Programming Languages & how I use them
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-*Used for:* PCAP parsing (Scapy), SIEM automation, Volatility scripts, analyst helpers.
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-*Used for:* low-level tooling, PoC analysis, memory/layout understanding.
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-*Used for:* quick triage scripts, log/pcap extraction, automation glue.
 
