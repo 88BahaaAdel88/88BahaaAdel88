@@ -1,20 +1,43 @@
-## Hi there 👋
+# Hi there, I'm G 👋  
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/B4HAA7.png" alt="TryHackMe Badge" />](https://tryhackme.com/p/B4HAA7)
+I’m learning **Cybersecurity** and improving my programming skills.  
+Currently exploring CTFs, network security, and practical coding projects.  
 
+---
 
+## 📊 GitHub Stats
+![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
 
-<!--
-**88BahaaAdel88/88BahaaAdel88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Platforms
+<p align="left">
+  <a href="https://tryhackme.com/p/B4HAA7">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/B4HAA7.png" alt="TryHackMe Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 📂 Projects I’m Working On
+- 🔐 [Cybersecurity-Labs](https://github.com/YOUR_GITHUB_USERNAME/Cybersecurity-Labs) – Notes, scripts, and experiments from CTFs and labs.  
+- 🐍 [Python-Scripts](https://github.com/YOUR_GITHUB_USERNAME/Python-Scripts) – Small utilities, automation, and experiments.  
+- ⚡ [Dotfiles](https://github.com/YOUR_GITHUB_USERNAME/dotfiles) – My Linux configs (bspwm, polybar, etc).  
+
+---
+
+⭐ *Always open to collaboration and learning from the community!*  
+
