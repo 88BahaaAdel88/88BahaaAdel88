@@ -6,7 +6,7 @@ Currently exploring CTFs, network security, and practical coding projects.
 ---
 
 ## 📊 GitHub Stats
-![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![G's GitHub stats](https://github-readme-stats.vercel.app/api?username=88BahaaAdel88&show_icons=true&theme=radical)  
 
 ---
 
@@ -29,13 +29,6 @@ Currently exploring CTFs, network security, and practical coding projects.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
----
-
-## 📂 Projects I’m Working On
-- 🔐 [Cybersecurity-Labs](https://github.com/YOUR_GITHUB_USERNAME/Cybersecurity-Labs) – Notes, scripts, and experiments from CTFs and labs.  
-- 🐍 [Python-Scripts](https://github.com/YOUR_GITHUB_USERNAME/Python-Scripts) – Small utilities, automation, and experiments.  
-- ⚡ [Dotfiles](https://github.com/YOUR_GITHUB_USERNAME/dotfiles) – My Linux configs (bspwm, polybar, etc).  
 
 ---
 
