@@ -35,9 +35,6 @@ Currently exploring **SOC analysis** and **Blue Teaming**, while also practicing
   <img src="https://img.shields.io/badge/Volatility-?style=for-the-badge" alt="Volatility" />
   <img src="https://img.shields.io/badge/Kali_Linux-?style=for-the-badge&logo=kali&logoColor=white" alt="Kali" />
 </p>
-
-> Quick note: If a badge doesn't show a perfect logo on GitHub it still renders fine — these are just visual helpers.
-
 ---
 
 ## 🧰 Languages
