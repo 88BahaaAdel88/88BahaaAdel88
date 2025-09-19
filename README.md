@@ -25,15 +25,18 @@ Currently exploring **SOC analysis** and **Blue Teaming**, while also practicing
 
 ## 🛠 Tools & Tech I Use (Blue Team / SOC focus)
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Snort-?style=for-the-badge&logo=snort&logoColor=white" alt="Snort" />
-  <img src="https://img.shields.io/badge/FTK_Imager-?style=for-the-badge" alt="FTK Imager" />
-  <img src="https://img.shields.io/badge/Splunk-?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Suricata-?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
-  <img src="https://img.shields.io/badge/ELK-?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK" />
-  <img src="https://img.shields.io/badge/Volatility-?style=for-the-badge" alt="Volatility" />
-  <img src="https://img.shields.io/badge/Kali_Linux-?style=for-the-badge&logo=kali&logoColor=white" alt="Kali" />
+## 🛠 Tools & Tech I Use (Blue Team / SOC focus)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 </p>
 ---
 
