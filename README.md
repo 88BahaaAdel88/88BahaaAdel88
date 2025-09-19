@@ -29,35 +29,29 @@ Hi — I’m **G**. I study and practice defensive security (SOC analysis / Blue
 
 ---
 
-## 🧰 Tools I use (Blue Team / SOC)
-> Short summary: IDS, packet/host forensics, SIEM, and analyst automation.
+## 🛠 Tools & Tech I Use (Blue Team / SOC) — Text-only badges
 
-<p>
-  ![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=portswigger&logoColor=white)
-  ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
-  ![Suricata](https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge)
-  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-  ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-  ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
-  ![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
-  ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-</p>
+![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=portswigger&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
 
-## 💻 Programming languages — and the tools I pair them with
+## 💻 Programming Languages & how I use them
 
-| Language | What I use it for (examples/tools) |
-|---|---|
-| **Python** | Parsing PCAPs (Scapy), automating SIEM queries, forensic helpers, Volatility scripts, small analyst tools. |
-| **C** | Low-level tooling, analysing PoCs, understanding exploit primitives and memory layout. |
-| **Bash** | Automation for triage (grep/awk/sed), quick scripts for log extraction and file collection. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+*Used for:* PCAP parsing (Scapy), SIEM automation, Volatility scripts, analyst helpers.
 
-You can show these badges instead of the table if you prefer:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+*Used for:* low-level tooling, PoC analysis, memory/layout understanding.
 
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+*Used for:* quick triage scripts, log/pcap extraction, automation glue.
+
