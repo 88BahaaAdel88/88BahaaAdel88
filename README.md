@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 TryHackMe Profile
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3484878" style='border:none;'></iframe>
+"https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3484878"
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/b4haa7.png)](https://tryhackme.com/p/b4haa7)
 
 
 <!--
