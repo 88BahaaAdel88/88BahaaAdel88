@@ -1,14 +1,15 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=36&duration=2500&color=2AA889&center=true&vCenter=true&width=700&lines=Hi,+I'm+G+👋;SOC+Analyst+in+training" alt="Hi, I'm G"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=36&duration=2500&color=2AA889&center=true&vCenter=true&width=700&lines=Hi,+I'm+Bahaa+👋;SOC+Analyst+in+training" alt="Hi, I'm Bahaa"/>
   </h1>
 </div>
 
 ---
 
-## Quick intro
-Hi — I’m **G**. I study and practice defensive security (SOC analysis / Blue Teaming), dig into network forensics, and write small tools to automate analyst work. I prefer Linux (Arch) and keep most of my lab notes, playbooks, and scripts public.
+## Quick Intro
+Hi! I’m **Bahaa**. I study and practice defensive security (SOC analysis / Blue Teaming), explore network forensics, and build small tools to automate analyst workflows.  
+I’m enthusiastic about Linux, AI-driven threat detection, social engineering prevention, and automated incident response.
 
 ---
 
