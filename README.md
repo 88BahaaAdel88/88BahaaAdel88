@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=36&duration=2500&color=2AA889&center=true&vCenter=true&width=700&lines=Hi,+I'm+G+👋;SOC+Analyst+in+training+|+Blue+Team+|+CTF+Learner" alt="Hi, I'm G"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=36&duration=2500&color=2AA889&center=true&vCenter=true&width=700&lines=Hi,+I'm+G+👋;SOC+Analyst+in+training" alt="Hi, I'm G"/>
   </h1>
 </div>
 
