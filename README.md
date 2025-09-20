@@ -13,7 +13,7 @@ I’m enthusiastic about Linux, AI-driven threat detection, social engineering p
 
 ---
 
-## Connect & badges
+## Connect
 <p align="center">
   <a href="https://tryhackme.com/p/B4HAA7">
     <img src="https://tryhackme-badges.s3.amazonaws.com/B4HAA7.png" alt="TryHackMe" height="72"/>
@@ -42,9 +42,9 @@ I’m enthusiastic about Linux, AI-driven threat detection, social engineering p
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
