@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=C0C0C0&width=435&lines=Hi+There+I'm+Bahaa+%F0%9F%98%8A;SOC+Analyst+in+Training" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=03A062&width=435&lines=Hi+There+I'm+Bahaa+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;SOC+Analyst+in+Training" alt="Typing SVG"/>
   </h1>
 </div>
 
