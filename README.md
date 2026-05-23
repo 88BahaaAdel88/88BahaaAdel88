@@ -26,7 +26,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://cyber-portfolio-ii.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/bahaa-adel-58948a1b5/" target="_blank">
