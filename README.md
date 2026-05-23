@@ -25,8 +25,7 @@
       <img src="https://img.shields.io/badge/TryHackMe-DE2F2F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://cyber-portfolio-ii.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog"/>
+      <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/b4haa7/" target="_blank">
