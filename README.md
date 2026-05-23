@@ -25,8 +25,8 @@
       <img src="https://img.shields.io/badge/TryHackMe-DE2F2F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/88BahaaAdel88" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://cyber-portfolio-ii.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/bahaa-adel-58948a1b5/" target="_blank">
@@ -59,21 +59,6 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <p>
-    <a href="https://github.com/88BahaaAdel88">
-      <img src="https://github-readme-stats.vercel.app/api?username=88BahaaAdel88&show_icons=true&bg_color=0D1117&title_color=03A062&text_color=c9d1d9&icon_color=03A062&border_color=03A062&hide_border=false" alt="Bahaa's GitHub Stats" height="150"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/88BahaaAdel88">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=88BahaaAdel88&background=0D1117&ring=03A062&fire=03A062&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=03A062&dates=8b949e&border=03A062&hide_border=false" alt="Bahaa's GitHub Streak" height="150"/>
-    </a>
   </p>
 </div>
 
