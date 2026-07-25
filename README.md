@@ -12,7 +12,7 @@
     Hi! I’m <b>Bahaa</b>. I study and practice defensive security (SOC analysis / Blue Teaming), explore network forensics, and build small tools to automate analyst workflows.
   </p>
   <p>
-    I’m enthusiastic about Linux, AI-driven threat detection, social engineering prevention, and automated incident response.
+    I’m enthusiastic about Linux, AI-driven threat detection, and automated incident response.
   </p>
 </div>
 
